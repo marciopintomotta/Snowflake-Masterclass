@@ -16,4 +16,4 @@ Kind of obvious, have an access account to a Snowflake.com
 
 |    How to ...   |  Code   |
 |-----------|----------------|
-| Setting up warehouse using SQL |https://github.com/marciopintomotta/SAP-SQLServer/blob/master/SAP_SuppliersWithOverdueParts.sql |
+| Setting up warehouse using SQL | https://github.com/marciopintomotta/Snowflake-Masterclass/blob/master/setting_up_warehouse.sql |
